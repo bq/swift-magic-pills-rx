@@ -35,6 +35,10 @@ github "bq/swift-magic-pills-rx"
 * **[Jorge Revuelta](https://github.com/minuscorp)**
 * **[Sebastián Varela](https://github.com/sebastianvarela)**
 
+## Acknowledgements
+The work in this repository up to April 28th, 2021 was done by [bq](https://github.com/bq).
+Thanks for all the work!!
+
 ## License
 
 RxMagicPills is available under the Apache 2.0. See the LICENSE file for more info.
